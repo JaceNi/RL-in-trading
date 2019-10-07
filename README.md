@@ -3,7 +3,7 @@ Reinforcement Learning in Trading
 
 By building up the trading environment in the env.py file, which has the same functions of OpenAI gym.
 
-Implementing the Reinforcement Learning model including memory-replay, greedy exploration and temporal difference, which is 
+Implementing the Reinforcement Learning model including memory-replay, greedy exploration and temporal difference, which are
 included in the file of brain.py, dqn.py, train.py.
 
 The observation is the combination of different indicators calculated from OHLC price as a matrix input into the Convolutional
